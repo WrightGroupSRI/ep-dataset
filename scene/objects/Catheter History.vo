@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VurtigoFile>
+    <FileInfo>
+        <type>OT_3DPointBuffer</type>
+        <name>Catheter History</name>
+        <version>2.0</version>
+    </FileInfo>
+    <Visibilities vis="0"/>
+    <BufferData>
+        <numPoints>0</numPoints>
+        <scaling>1</scaling>
+        <zoom>2.5</zoom>
+    </BufferData>
+</VurtigoFile>

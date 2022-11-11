@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PluginList>
+    <plugin>
+        <name title="Screen Capture" version="1.0"/>
+        <lib libname="ScreenCapture" libpath="@VURTIGO_BIN_DIR@"/>
+    </plugin>
+    <plugin>
+        <name title="GeomServer" version="1.0"/>
+        <lib libname="GeomServer" libpath="@VURTIGO_BIN_DIR@"/>
+    </plugin>
+    <plugin>
+        <name title="Catheter Tracking" version="1.0"/>
+        <lib libname="CathTracking" libpath="@VURTIGO_BIN_DIR@"/>
+    </plugin>
+    <plugin>
+        <name title="Carto Reader" version="1.0"/>
+        <lib libname="CartoReader" libpath="@VURTIGO_BIN_DIR@"/>
+    </plugin>
+    <plugin>
+        <name title="EP Plugin" version="1.0"/>
+        <lib libname="EP_Plugin" libpath="@VURTIGO_BIN_DIR@"/>
+    </plugin>
+    <plugin>
+        <name title="Camera Interpolation" version="1.0"/>
+        <lib libname="CameraInterpolation" libpath="@VURTIGO_BIN_DIR@"/>
+    </plugin>
+    <plugin>
+        <name title="Catheter History" version="1.0"/>
+        <lib libname="CathHistory" libpath="/usr/lib/Vurtigo-Plugins/"/>
+    </plugin>
+</PluginList>

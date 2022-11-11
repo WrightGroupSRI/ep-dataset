@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VurtigoFile>
+    <FileInfo>
+        <type>OT_3DObject</type>
+        <name>E774S5</name>
+        <version>1.0</version>
+    </FileInfo>
+    <Visibilities vis="0"/>
+    <TriggerDelay>10</TriggerDelay>
+    <TriggerDelay>41</TriggerDelay>
+    <TriggerDelay>73</TriggerDelay>
+    <TriggerDelay>104</TriggerDelay>
+    <TriggerDelay>136</TriggerDelay>
+    <TriggerDelay>167</TriggerDelay>
+    <TriggerDelay>199</TriggerDelay>
+    <TriggerDelay>231</TriggerDelay>
+    <TriggerDelay>262</TriggerDelay>
+    <TriggerDelay>294</TriggerDelay>
+    <TriggerDelay>325</TriggerDelay>
+    <TriggerDelay>357</TriggerDelay>
+    <TriggerDelay>388</TriggerDelay>
+    <TriggerDelay>420</TriggerDelay>
+    <TriggerDelay>452</TriggerDelay>
+    <TriggerDelay>483</TriggerDelay>
+    <TriggerDelay>515</TriggerDelay>
+    <TriggerDelay>546</TriggerDelay>
+    <TriggerDelay>578</TriggerDelay>
+    <TriggerDelay>610</TriggerDelay>
+    <ImageType>0</ImageType>
+    <VolTransform a00="-0.981398" a01="-0.103274" a02="0.161842" a03="113.473" a10="-1.57872e-06" a11="0.843018" a12="0.537885" a13="137.734" a20="0.19194" a21="-0.527924" a22="0.827318" a23="33.5865" a30="0" a31="0" a32="0" a33="1"/>
+    <window>289</window>
+    <level>144</level>
+    <phase>0</phase>
+</VurtigoFile>

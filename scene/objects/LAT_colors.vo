@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VurtigoFile>
+    <FileInfo>
+        <type>OT_vtkColorTransferFunction</type>
+        <name>LAT_colors</name>
+        <version>1.0</version>
+    </FileInfo>
+    <ColorFuncData>
+        <minBounds>0</minBounds>
+        <maxBounds>1000</maxBounds>
+        <clamping>1</clamping>
+    </ColorFuncData>
+    <ColorFuncPoints numPoints="9">
+        <Node x="0" r="0" g="0" b="0" mid="0.5" sharp="0"/>
+        <Node x="50" r="0" g="0.329412" b="1" mid="0.5" sharp="0"/>
+        <Node x="100" r="0" g="1" b="0" mid="0.5" sharp="0"/>
+        <Node x="200" r="0.666667" g="1" b="0" mid="0.5" sharp="0"/>
+        <Node x="500" r="1" g="1" b="0" mid="0.5" sharp="0"/>
+        <Node x="600" r="1" g="0.666667" b="0" mid="0.5" sharp="0"/>
+        <Node x="700" r="1" g="0.329412" b="0" mid="0.5" sharp="0"/>
+        <Node x="800" r="1" g="0" b="0.494118" mid="0.5" sharp="0"/>
+        <Node x="1000" r="1" g="0" b="0" mid="0.5" sharp="0"/>
+    </ColorFuncPoints>
+</VurtigoFile>
